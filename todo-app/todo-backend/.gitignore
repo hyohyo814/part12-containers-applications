@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# Dockerfiles
+Dockerfile
+.dockerignore
+
+# Redis files
+redis_data/
+
+# Mongo files
+mongo_data/
